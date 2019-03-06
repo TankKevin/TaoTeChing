@@ -2,7 +2,7 @@
 读经悟道是一个设计优良的 app，它的作用是帮助用户在一个干净清爽界面中阅读道家经典《道德经》，并且记录下自己的体会、与朋友共享。
 您可下载源代码或录屏视频查看。
 
-TaoTeChing is an beautifully designed app based on iOS platform and is designed & built by Kevin Tan. Jinyi Fang, Kevin's girlfriend, also contributes in UI designs & function advice.
+TaoTeChing is a beautifully designed app based on iOS platform and is designed & built by Kevin Tan. Jinyi Fang, Kevin's girlfriend, also contributes in UI designs & function advice.
 
 Although it's simple, we try to make it useful. It mainly helps users absorb the wisdom of Taoism by the following ways:
 
