@@ -15,9 +15,9 @@ There are functions that can be developed:
 * Use iCloud to save document on the cloud.
 * A powerful search function is needed.
 
-**点击可下载 [TaoTeChingScreenRecord.mp4](https://github.com/KevinJinyi/TaoTeChing/blob/master/TaoTeChingScreenRecord.mp4) 屏幕录制**
+**点击可下载 [TaoTeChingScreenRecord.mp4](https://github.com/KevinJinyi/TaoTeChing/raw/master/TaoTeChingScreenRecord.mp4) 屏幕录制**
 
-**[TaoTeChingScreenRecord.mp4](https://github.com/KevinJinyi/TaoTeChing/blob/master/TaoTeChingScreenRecord.mp4) is available**
+**[TaoTeChingScreenRecord.mp4](https://github.com/KevinJinyi/TaoTeChing/raw/master/TaoTeChingScreenRecord.mp4) is available**
 
 <div align=center><img width="375" src="https://raw.githubusercontent.com/KevinJinyi/TaoTeChing/master/IMG_0319.PNG"/></div>
 
