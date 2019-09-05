@@ -4,7 +4,7 @@
 
 TaoTeChing is a beautifully designed app based on iOS platform and is designed & built by Kevin Tan.
 
-Although it's simple, we try to make it useful. It mainly helps users absorb the wisdom of Taoism by the following ways:
+Although it's simple, I try to make it useful. It mainly helps users absorb the wisdom of Taoism by the following ways:
 
 * Tap one chapter out of 81 chapters in the table to see details. Swipe to like/dislike the chapter.
 * View ancient & modern Chinese version of each chapter.
