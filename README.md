@@ -16,8 +16,8 @@ TaoTeChing is an iOS app for readers to absorb and share Taoism wisdom.
 
 *[Download TaoTeChingScreenDemo.mp4 (3.3 MB) through this link.](https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/TaoTeChingDemo.mp4)*
 
-<div align=center><img width="375" src="Screenshots/IMG_0304.PNG"/></div>
+<div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/Screenshots/IMG_0304.PNG"/></div>
 
-<div align=center><img width="375" src="Screenshots/IMG_0305.PNG"/></div>
+<div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/Screenshots/IMG_0305.PNG"/></div>
 
-<div align=center><img width="375" src="Screenshots/IMG_0306.PNG"/></div>
+<div align=center><img width="375" src="https://raw.githubusercontent.com/TankKevin/TaoTeChing/master/Screenshots/IMG_0306.PNG"/></div>
